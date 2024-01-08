@@ -39,6 +39,7 @@ class CameraPicker extends StatefulWidget {
 
   /// Static method to create [AssetEntity] through camera.
   /// 通过相机创建 [AssetEntity] 的静态方法
+  /// testtest
   static Future<AssetEntity?> pickFromCamera(
     BuildContext context, {
     CameraPickerConfig pickerConfig = const CameraPickerConfig(),
